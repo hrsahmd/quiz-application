@@ -1,0 +1,42 @@
+[
+	{
+		"1Q": "Which one among these is not a datatype?",
+		"1A": ["int", "Float", "boolean", "char"]
+	},
+	{
+		"2Q": "Which class is available to all the class automatically?",
+		"2A": ["Swing", "Applet", "Object", "ActionEvent"]
+	},
+{
+		"3Q": "Which package is directly available to our class without importing it?",
+		"3A": ["swing", "applet", "net", "lang"]
+	},
+{
+		"4Q": "String class is defined in which package?",
+		"4A": ["Lang", "Swing", "Applet", "AWT"]
+	},
+	{
+		"5Q": "Which institute is best for java coaching?",
+		"5A": ["Buchalka", "ZTM", "Udemy", "Guru99"]
+	},
+{
+		"6Q": "Which one among these is not a keyword?",
+		"6A": ["class", "int", "get", "if"]
+	},
+	{
+		"7Q": "Which one among these is not a class?",
+		"7A": ["Swing", "actionPerformed", "ActionEvent", "Button"]
+	},
+{
+		"8Q": "Which one among these is not a function of Object class?",
+		"8A": ["toString", "finalize", "equals", "getDocumentBase"]
+	},
+{
+		"9Q": "Which function is not present in Applet class?",
+		"9A": ["init", "main", "start", "destroy"]
+	},
+{
+		"10Q": "Which one among these is not a valid component?",
+		"10A": ["JButton", "JList", "JButtonGroup", "JTextArea"]
+	}
+]
